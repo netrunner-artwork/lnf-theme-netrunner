@@ -1,2 +1,2 @@
-# netrunner-plasma-theme
-The Netrunner Plasma 5 look and feel theme.
+# netrunner-lnf-theme
+The Netrunner Look and Feel theme for Plasma.
